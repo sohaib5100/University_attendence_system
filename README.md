@@ -16,7 +16,7 @@ Welcome to the Car Membership App! This application is designed to manage car pa
 
 ## Introduction
 
-The Car Membership App allows users to:
+The University_attendence_system App allows users to:
 - Register for membership by providing their personal details and car information.
 - View, search, and manage existing memberships.
 - Administrators can add new members, search by license plate, and view all registered members.
@@ -56,7 +56,7 @@ To get started with the Car Membership App, follow these installation steps:
 
 ### 1. Clone the repository:
 bash
-git clone https://github.com/haseeb0033/car-membership-app.git
+git clone https://github.com/sihaib5100/University_attendence_system.git
 cd car-membership-app
 
 
@@ -130,16 +130,10 @@ The *members* table in the database consists of the following columns:
 
 
 
-![1](https://github.com/user-attachments/assets/62e1aded-5cc9-456a-9698-fbb83f64275f)
-
-
 
 
 
 *Login Page*
-
-
-![2](https://github.com/user-attachments/assets/e5e57897-fb4e-479d-8d11-194553eb2064)
 
 
 
@@ -149,9 +143,6 @@ The *members* table in the database consists of the following columns:
 
 
 
-![3](https://github.com/user-attachments/assets/1f7ed5e2-c229-4891-997d-e5325856a886)
-
-
 
 
 
@@ -159,9 +150,6 @@ The *members* table in the database consists of the following columns:
 *User Search Page*
 
 
-
-
-![4](https://github.com/user-attachments/assets/ccc2a6fd-c5d6-4dc5-ab1a-1f28a9cff642)
 
 
 
