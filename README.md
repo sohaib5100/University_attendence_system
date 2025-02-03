@@ -129,6 +129,7 @@ The *members* table in the database consists of the following columns:
 
 
 
+![image](https://github.com/user-attachments/assets/7c9195e5-7a2c-4c94-bbf8-7ad5ecb8a919)
 
 
 
@@ -138,17 +139,20 @@ The *members* table in the database consists of the following columns:
 
 
 
+
+
+![image](https://github.com/user-attachments/assets/d2068309-bf50-4fa8-9c56-425f543fe855)
+
+
+
+
+
 *Admin Dashboard*
 
 
 
 
-
-
-
-
-*User Search Page*
-
+![image](https://github.com/user-attachments/assets/29b4977e-44d4-46af-be5c-d66e1276dee0)
 
 
 
